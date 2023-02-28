@@ -1,0 +1,7 @@
+{
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjFlY2E2OGI0LTk3NmQtNmU5Ny1hZTNjLWViZTljYTEzNTczZiIsInNpZCI6NDgwNDEsInJvbGVzIjpbInVzZXIiXSwic2NwIjpbImFsbCJdLCJhY3RpdmF0ZWQiOnRydWUsImFjdCI6dHJ1ZSwiZXhwIjoxNjQ4MTkyNTcwLCJpYXQiOjE2NDc1ODc3NzAsImlzcyI6IkF4aWVJbmZpbml0eSIsInN1YiI6IjFlY2E2OGI0LTk3NmQtNmU5Ny1hZTNjLWViZTljYTEzNTczZiJ9._umuZaKjf_GnCAIdhsQCPfg1J83ntjxkDlOF5d_9sYE",
+  "accessTokenExpiresAt": "2022-03-25T07:16:10.000Z",
+  "accessTokenExpiresIn": 604800,
+  "refreshToken": "7VGiSz4KnZYGAsUwNpS46_9qAV6KYSPMF4Pkvng5Vvos99hiLgulVELSWzKF_t1n",
+  "userID": "1eca68b4-976d-6e97-ae3c-ebe9ca13573f"
+}

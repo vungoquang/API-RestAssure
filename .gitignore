@@ -1,0 +1,5 @@
+# ignore folder which automate generating
+target/
+
+# ignore report html file
+Demo/.html

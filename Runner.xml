@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke Test Write - Staging" verbose="1" >
+    <listeners>
+<!--        <listener class-name="utils.ExcelReport"/>-->
+    </listeners>
+
+    <test name="DemoRestAssure">
+        <parameter name="baseUrl" value="https://athena.skymavis.one/v1/rpc/auth/"/>
+        <classes>
+            <class name="aut.AuthTC"/>
+        </classes>
+    </test>
+
+</suite>
